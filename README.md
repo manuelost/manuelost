@@ -1,16 +1,14 @@
-## Hi there 👋
+# ¡Hola! Soy Manuel Elostondo 👋
 
-<!--
-**manuelost/manuelost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de desarrollo de software en UADE  
+🚀 Apasionado por la programación, el diseño web y los proyectos tech  
+📫 Contacto: [LinkedIn](https://www.linkedin.com/in/tu-usuario)
 
-Here are some ideas to get you started:
+## ⚙️ Tecnologías que uso
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Stats
+![Tus Stats](https://github-readme-stats.vercel.app/api?username=manuelelost&show_icons=true&theme=github_dark)
